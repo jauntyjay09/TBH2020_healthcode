@@ -21,6 +21,7 @@
    Good Health and Well-being
    
 6.  Write a short description of your project. (problem statement)
+
     Mental health is not spoken about enough. It is a stigma and this leads to so
   many people shutting themselves in and not talking about the things that
   happen in their minds.
@@ -32,15 +33,15 @@ just unwind and get oneself together is what we intend to provide, all in one
 place.
 
   a)We offer a chatroom to socialize and be able to reach out and
-communicate amongst people all over.
+        communicate amongst people all over.
   b)Whatsapp chatbot for get you personalized experience with 
   quotes and jokes to relax yourself.
 
-c)A blog for women, by women and of women.
+  c)A blog for women, by women and of women.
 
-d)Comprehensive Quizzes and surveys that help you know yourself.
+  d)Comprehensive Quizzes and surveys that help you know yourself.
 
-e)Guided yoga and meditation sessions, with music to help you relax.
+  e)Guided yoga and meditation sessions, with music to help you relax.
 
  
 
@@ -63,6 +64,11 @@ e)Guided yoga and meditation sessions, with music to help you relax.
    ANSWER
 
 11. Link for your website or app if you are using any third party apps like wix.com, etc. 
-      NA
+
+     I am not using any third party app to develop my project.
+      It is all hand coded by me and hosted using githubpages and i have my domain name from name.com
+      
+      here is my website which i coded :
+      https://jayakumar.tech/index.html
 
 
