@@ -34,6 +34,7 @@ place.
 
   a)We offer a chatroom to socialize and be able to reach out and
         communicate amongst people all over.
+        
   b)Whatsapp chatbot for get you personalized experience with 
   quotes and jokes to relax yourself.
 
@@ -43,11 +44,7 @@ place.
 
   e)Guided yoga and meditation sessions, with music to help you relax.
 
- 
-
-   
-
-8. Challenges you ran into during the hackathon.  
+ 8. Challenges you ran into during the hackathon.  
 
    Making discission in selecting Designs and perfect resources to deploy.
 
